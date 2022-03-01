@@ -1,0 +1,266 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hereaft[er] foloweth the abreuiacõn of the graces/ĩdulgẽces &amp; staciõs which our moste holy fad[er] Pope Alexander vi. graũteth to all true beleuĩge people: of euery sexe or kynde wyllĩge to entre into the fraternite of the great hospytall of saynt Iames ĩ Cõpostell: lately edifyed &amp; bylded: as is cõteined ĩ his lett[er]s apostolykes/graũted to euerlastĩge memory/&amp; cõfermed by our holy fad[er] nowe beĩge Pope Iuli[us].</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1505</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00205</idno>
+            <idno type="STC">STC 14077c.88</idno>
+            <idno type="STC">ESTC S106343</idno>
+            <idno type="EEBO-CITATION">52633302</idno>
+            <idno type="OCLC">ocm 52633302</idno>
+            <idno type="VID">174725</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00205)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174725)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2120:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hereaft[er] foloweth the abreuiacõn of the graces/ĩdulgẽces &amp; staciõs which our moste holy fad[er] Pope Alexander vi. graũteth to all true beleuĩge people: of euery sexe or kynde wyllĩge to entre into the fraternite of the great hospytall of saynt Iames ĩ Cõpostell: lately edifyed &amp; bylded: as is cõteined ĩ his lett[er]s apostolykes/graũted to euerlastĩge memory/&amp; cõfermed by our holy fad[er] nowe beĩge Pope Iuli[us].</title>
+                  <author>Catholic Church. Pope (1492-1503 : Alexander VI).</author>
+                  <author>Catholic Church. Pope (1503-1513 : Julius II).</author>
+               </titleStmt>
+               <extent>[1] sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Wynkyn de Worde,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>ca. 1505].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint information from STC (2nd ed.).</note>
+                  <note>Cut of scallop-shell in upper left corner of sheet.</note>
+                  <note>Imperfect: creased, worn, and torn, with loss of text.</note>
+                  <note>Reproduction of original in: Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Discipline --  Early works to 1800.</term>
+               <term>Indulgences --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:174725:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>scallop shell, symbol of the pilgrimage to Santiago da Compostela</figDesc>
+               </figure> ¶ Hereaft<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> foloweth the abreuiaco<g ref="char:cmbAbbrStroke">̄</g>n of the graces / idulge<g ref="char:cmbAbbrStroke">̄</g>ces &amp; ſtacio<g ref="char:cmbAbbrStroke">̄</g>s which our moſte holy fad<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> Pope Alexa<g ref="char:cmbAbbrStroke">̄</g>der vi. grau<g ref="char:cmbAbbrStroke">̄</g>teth to all true beleui<g ref="char:cmbAbbrStroke">̄</g>ge people: of euery ſexe or kynde wylli<g ref="char:cmbAbbrStroke">̄</g>ge to entre into the frater<g ref="char:EOLunhyphen"/>nite of the great Hoſpytall of ſaynt Iames i<g ref="char:cmbAbbrStroke">̄</g> Co<g ref="char:cmbAbbrStroke">̄</g>poſtell: lately edifyed &amp; bylded: as is co<g ref="char:cmbAbbrStroke">̄</g>teined i<g ref="char:cmbAbbrStroke">̄</g> his lett<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>s apoſtolykes / grau<g ref="char:cmbAbbrStroke">̄</g>ted to euerlaſti<g ref="char:cmbAbbrStroke">̄</g>ge memory / &amp; co<g ref="char:cmbAbbrStroke">̄</g>fermed by our holy fad<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> nowe bei<g ref="char:cmbAbbrStroke">̄</g>ge Pope Iuliꝰ.</head>
+            <p>FIrſt it is grau<g ref="char:cmbAbbrStroke">̄</g>ted to euery broder &amp; ſyſter of the ſaide hoſpital that they ſhalbe ꝑtable of al the Maſſes / ſacrifices / prayers / faſti<g ref="char:cmbAbbrStroke">̄</g>ges / almes dedes / and of al other ſuffrages / and gods dedes done in the ſayde hoſpytall.</p>
+            <p>¶ Alſo that euery broder &amp; ſiſter: may choſe them a goſtely fader / ſeculer or reguler: whiche may gyue them full remyſſion of al ther ſyn<g ref="char:EOLhyphen"/>nes: if they be contryte / &amp; confeſſed of them / ones in theyr lyfe / &amp; ones in the article of dethe: ſo that they make reſtitucyon / by themſelfe / or ſo<g ref="char:cmbAbbrStroke">̄</g>me other in ſuche caſes / &amp; to ſuche ꝑſones: as reſtitucion ought to be made.</p>
+            <p>¶ Alſo that euery broder &amp; ſyſter / may a<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> many tymes as them lyſt duringe theyr lyfe choſe to be theyr goſtely fader &amp; co<g ref="char:cmbAbbrStroke">̄</g>feſſour any preſte / ſeculer or reguler: whiche preſte <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by them / ſhal haue power &amp; auctoryte to abſolue them of all ther ſynnes / crymes / &amp; ex<g ref="char:EOLunhyphen"/>ceſſys / nat reſerued to the ſee of Rome as <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhalbe neceſſary / or behouable<g ref="char:punc">▪</g> &amp; alſo of al ſuche as be reſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed to the ſaide ſee ones i<g ref="char:cmbAbbrStroke">̄</g> ther lyfe<g ref="char:punc">▪</g> except the caſes conteyned in the letters / of teſtymonye of the ſaide fraternite which euery broder &amp; ſyſter <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hal receyue.</p>
+            <p>¶ Alſo the ſayde confeſſour / may ch<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ge any vowe made by the ſayde bretherne or ſyſters into other gode werkes of charite. Except y<hi rend="sup">t</hi> vowe to Rome / Ierusalem / to the ſayde ſaynt Iames in compoſtell / the vowe of chaſtite / and religyon.</p>
+            <p>¶ Alſo it is graunted to al women that foure tyme<g ref="char:cmbAbbrStroke">̄</g>s in euery yere durynge theyre lyfe they may reſorte with o<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> two women to any Monaſtery of No<g ref="char:cmbAbbrStroke">̄</g>nes of what order ſo euer it be<g ref="char:punc">▪</g> though it be of the recluſe of ſaynt Clare / for to ete &amp; drynke and to be conuerſau<g ref="char:cmbAbbrStroke">̄</g>t wyth them / But nat for to ley with them by nyght.</p>
+            <p>¶ Alſo the ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yd bretherne &amp; ſyſters / what place in the worlde ſo euer they be in / may here maſſe / and al other deuyne ſeruyce: and receyue al the ſacram<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tes of holy churche: a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>though the churche were enterdited by the auctoryte of any ordinary / Except that on Eſter day they may nat receyue the bleſſyd ſacrame<g ref="char:cmbAbbrStroke">̄</g>t of the aulter<g ref="char:punc">▪</g> whiche at al other tymes they may receyue. And if it fortune that any broder or ſyſter of the ſayd fraternite deceſſe ſuche tyme as the churche is interdyted: the body may be buryed in theſame place ſo interdite: ſo that it be do<g ref="char:EOLunhyphen"/>ne withoute gret pompe &amp; ſole<g ref="char:cmbAbbrStroke">̄</g>nyte. And alſo that thatſame ꝑſone were nat the cauſe of the int<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>diccyon.</p>
+            <p>¶ Alſo that euery broder and ſyſter of the ſame fraternyte very penyte<g ref="char:cmbAbbrStroke">̄</g>t &amp; co<g ref="char:cmbAbbrStroke">̄</g>feſſed / viſitynge in any feſte of our lady or ſaynt Iames any tyme fro the begynnynge of the firſt eue<g ref="char:cmbAbbrStroke">̄</g>ſonge / to the laſt ende of the laſt eue<g ref="char:cmbAbbrStroke">̄</g>ſonge any churche dedycate in the honour of our lady / or ſaynt Iames / &amp; ſake of the<g ref="char:cmbAbbrStroke">̄</g> any other churche where / and what ſo euer it be / ſhal opteyne &amp; haue for euery feſte .xxx. yeres / &amp; xxx. lentes of Indul<g ref="char:EOLunhyphen"/>gence and pardo<g ref="char:cmbAbbrStroke">̄</g>n of penau<g ref="char:cmbAbbrStroke">̄</g>ce inioyned to <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em.</p>
+            <p>¶ Alſo euery broder &amp; ſyſter of the ſayde fraternyte ſaynge .v. Pater noſt<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>s<g ref="char:punc">▪</g> &amp; v. Aues deuoutly vpon ther knees in ther ꝑyſſhe churche / or in any other churche: where it ſhal fortune them to be: ſhal haue as great ꝑdon / indulgence &amp; remyſſion of ther ſynnes: as be graunted to the<g ref="char:cmbAbbrStroke">̄</g> that veſyte al the churches / &amp; ſtacyo<g ref="char:cmbAbbrStroke">̄</g>s at Rome: as wel as if they ꝑſonally viſyted the ſtacions of Rome: as wel within the cyte of Ro<g ref="char:EOLunhyphen"/>me as withoute: that is to ſay / in the dayes folowynge: and firſt the dayes or feſtes mouables of the yere.</p>
+            <p>¶ The ſonday in ſeptuageſima: ſexageſima: &amp; quinquageſima: are ſtacyons. Alſo frome the firſt day of lent Incluſyue: vnto lowe ſon<g ref="char:EOLunhyphen"/>day <note place="margin">Feſtes mo<g ref="char:EOLunhyphen"/>uables.</note> Incluſyue: whiche ben alſo eury day ſtacyons: and ſo many &amp; great ꝑdons Indulgences &amp; full remyſſyons: whiche no man can ex<g ref="char:EOLhyphen"/>pryme them: alſo the .iii. rogacyon dayes / the aſcencyon day / &amp; whitſonday: monday tuyſday with the .iii. embrynge dayes: and al the vtas of whitſonday be ſtacyons: and great ꝑdons. Alſo in the vtas of Corpus <choice>
+                  <abbr>xpi</abbr>
+                  <expan>christi</expan>
+               </choice> full remiſſyon<g ref="char:punc">▪</g> &amp; knowe ye that eury ſaterday in lent &amp; euery day of our lady in al the yere is ful remyſſion.</p>
+            <div type="part">
+               <head>Here foloweth Indulgens &amp; full remiſſions for certein dayes in euerimoneth in the yere.</head>
+               <p>
+                  <note place="margin">Ianuary</note>¶ Firſt the Circu<g ref="char:cmbAbbrStroke">̄</g>ciſyon of our lorde: the Epiphany with al the vtas / &amp; ſaynt Scbaſtians day are ſtacyons: ſaynt Agnes day and the l<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> day of Ianuary is full remyſſion.</p>
+               <p>
+                  <note place="margin">February</note>¶ The Puryficaco<g ref="char:cmbAbbrStroke">̄</g>n of our lady ful remyſſio<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:punc">▪</g> &amp; i<g ref="char:cmbAbbrStroke">̄</g> the feſte of ſai<g ref="char:cmbAbbrStroke">̄</g>t Pet<expan>
+                     <am>
+                        <g ref="char:aber"/>
+                     </am>
+                     <ex>er</ex>
+                  </expan> the Cathedra is ſtacio<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:punc">▪</g> &amp; ſait Mathias day the apoſtel is ful remyſſio<g ref="char:cmbAbbrStroke">̄</g>. </p>
+               <p>
+                  <note place="margin">Marche.</note>¶ Saynt Gregoryes day is remyſſion of all ſynnes: alſo the euyn of ſaynt Bendic &amp; the annu<g ref="char:cmbAbbrStroke">̄</g>cyacyon of our lady is ful remyſſion.</p>
+               <p>
+                  <note place="margin">Apryll.</note>¶ Saynt Markes day is ſtacyon: and the day of ſaynt Peter the martyr: is full remyſſion.</p>
+               <p>
+                  <note place="margin">May.</note>¶ The feſte of ſaynt Philyp &amp; Iacob: &amp; euery ſo<g ref="char:cmbAbbrStroke">̄</g>day in Maye is ful remyſſion: alſo the thirde &amp; the .vii. day ar ſtacio<g ref="char:cmbAbbrStroke">̄</g>s &amp; ful remyſſio<g ref="char:cmbAbbrStroke">̄</g>s<g ref="char:punc">▪</g> alſo vpo<g ref="char:cmbAbbrStroke">̄</g> ſaynt Iohn<g ref="char:cmbAbbrStroke">̄</g>s day portlatin is ful remyſſio<g ref="char:cmbAbbrStroke">̄</g>: &amp; in the reuelacion of ſai<g ref="char:cmbAbbrStroke">̄</g>t M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chael: is remyſſio<g ref="char:cmbAbbrStroke">̄</g> of y<hi rend="sup">e</hi> iiii<hi rend="sup">t</hi> parte of al ſin<g ref="char:cmbAbbrStroke">̄</g>es<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> knowe ye <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi rend="sup">t</hi> frome the .iii. day of May tyl the firſt day of Auguſt / i<g ref="char:cmbAbbrStroke">̄</g> the churche of ſait Iohn<g ref="char:cmbAbbrStroke">̄</g> latren<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe are euery day .<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>. <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> day ful <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>myſſ<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</p>
+               <p>
+                  <note place="margin">Iune.</note>¶ The Natiuite of ſaynt Iohn<g ref="char:cmbAbbrStroke">̄</g> baptyſt with al the vtas ful remyſſion<g ref="char:punc">▪</g> alſo the day of ſanyt Peter &amp; the next day folowynge in whiche day the co<g ref="char:cmbAbbrStroke">̄</g>memoracyon of ſaynt Paule is halowed be ful remyſſion / &amp; a thouſande yeres of pardon.</p>
+               <p>
+                  <note place="margin">Iuly.</note>¶ The Uiſytacyon of our lady with al the vtas folowynge / ful remyſſion<g ref="char:punc">▪</g> alſo ſaynt Mary maudeleyns day full remyſſion / &amp; pardon of the fourth parte of all ſynnes: ſaynt Iames day full remyſſion.</p>
+               <p>
+                  <note place="margin">Auguſt.</note>¶ The firſt day of Auguſt: the ſeconde: the fourth: &amp; ſaynt dominykes day: eche of them ful remyſſion<g ref="char:punc">▪</g> alſo ſaynt Laurens day with all his vtas full remyſſion. The aſſu<g ref="char:cmbAbbrStroke">̄</g>pcyon of our lady with al the vtas folowynge ful remyſſion: &amp; frome the day or feſte of the aſſu<g ref="char:cmbAbbrStroke">̄</g>pcyon of our lady vnto the feſte of hir Natiuite are euery day<g ref="char:punc">▪</g> xii yeres of ꝑdon: &amp; remyſſio<g ref="char:cmbAbbrStroke">̄</g> of the thirde ꝑte of al ſynnes<g ref="char:punc">▪</g> alſo ſaynt Bartilmewes day / &amp; al his vtas ful remyſſion<g ref="char:punc">▪</g> alſo vpon ſaynt Auguſtines day and the day of the decolacyon of ſaynt Iohn<g ref="char:cmbAbbrStroke">̄</g> baptiſt / ful remyſſion.</p>
+               <p>
+                  <note place="margin">Septe<g ref="char:cmbAbbrStroke">̄</g>ber</note>¶ The Natiuite of our lady / ful remyſſio<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:punc">▪</g> alſo vpo<g ref="char:cmbAbbrStroke">̄</g> holy Rodis day with al the vtas folowi<g ref="char:cmbAbbrStroke">̄</g>ge is ful remyſſio<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:punc">▪</g> alſo the thre embri<g ref="char:cmbAbbrStroke">̄</g>ge dayes of September are ſtacyons and full remyſſions<g ref="char:punc">▪</g> alſo ſaynt Mathewes day / &amp; ſaynt Ieromes day: is ful remyſſion.</p>
+               <p>
+                  <note place="margin">October.</note>¶ Sai<g ref="char:cmbAbbrStroke">̄</g>t Frau<g ref="char:cmbAbbrStroke">̄</g>cys day with al his vtas ful remyſſio<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:punc">▪</g> alſo on ſai<g ref="char:cmbAbbrStroke">̄</g>t Lukes day ful remyſſio<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:punc">▪</g> &amp; on ſai<g ref="char:cmbAbbrStroke">̄</g>t Symo<g ref="char:cmbAbbrStroke">̄</g> &amp; Iudis day is a ſtucyon. </p>
+               <p>
+                  <note place="margin">Noue<g ref="char:cmbAbbrStroke">̄</g>ber.</note>¶ The day of al Halowen ful remyſſion / &amp; vi. M<hi rend="sup">t.</hi> yeres of pardon: &amp; ſowlmes day / ful remyſſion<g ref="char:punc">▪</g> alſo the .ix. day / the xviii. day / &amp; y<hi rend="sup">e</hi> .xx. day of Nouember / &amp; the laſt day that is ſaynt Andrewes day / is ful remyſſion.</p>
+               <p>
+                  <note place="margin">Dece<g ref="char:cmbAbbrStroke">̄</g>ber.</note>¶ The foure ſondayes of Aduent / &amp; alſo the .iii. embri<g ref="char:cmbAbbrStroke">̄</g>ge dayes of December whiche be al ſtacio<g ref="char:cmbAbbrStroke">̄</g> dayes, the co<g ref="char:cmbAbbrStroke">̄</g>cepcyo<g ref="char:cmbAbbrStroke">̄</g> of our lady / and the xviii. day of the ſame moneth whiche is our lady day of the O / &amp; ſaynt Thomas day thapoſtell ful remyſſio<g ref="char:cmbAbbrStroke">̄</g>: Cryſtmas eue<g ref="char:cmbAbbrStroke">̄</g> / is a ſtacyon. Cryſtmas day / &amp; the maſſe at mydnight of the ſame day / the morowe maſſe &amp; the hye maſſe / ben ſtacio<g ref="char:cmbAbbrStroke">̄</g>s &amp; ful remyſſions<g ref="char:punc">▪</g> ſaynt Steuyns day withal his vtas ſaynt Iohn<g ref="char:cmbAbbrStroke">̄</g> eua<g ref="char:cmbAbbrStroke">̄</g>gelyſt / &amp; Innoce<g ref="char:cmbAbbrStroke">̄</g>tes day whiche ben ſtacyons / &amp; ful remyſſions.</p>
+            </div>
+            <div type="part">
+               <head>Hereafter foloweth indulgences / and remiſſions for eueri daie in the yere.</head>
+               <p>
+                  <note place="margin">Eueri day in the yere</note>¶ Firſt i<g ref="char:cmbAbbrStroke">̄</g> the church of ſaynt Iohn<g ref="char:cmbAbbrStroke">̄</g> latrene<g ref="char:cmbAbbrStroke">̄</g>s: which is grau<g ref="char:cmbAbbrStroke">̄</g>ted euery day in the yere .xiviii. yeres &amp; xiviii. lentis of ꝑdon / &amp; remyſſio<g ref="char:cmbAbbrStroke">̄</g> of the iii. parte of al ſi<g ref="char:cmbAbbrStroke">̄</g>nes<g ref="char:punc">▪</g> alſo pope Silueſter &amp; Gregory hath grau<g ref="char:cmbAbbrStroke">̄</g>ted &amp; gyue<g ref="char:cmbAbbrStroke">̄</g> to the<g ref="char:cmbAbbrStroke">̄</g> that deuoutly dothe veſite the ſame: Indulge<g ref="char:cmbAbbrStroke">̄</g>ces which no ma<g ref="char:cmbAbbrStroke">̄</g> may nou<g ref="char:cmbAbbrStroke">̄</g>bre but only god / thus ſai<g ref="char:cmbAbbrStroke">̄</g>t Bonyface teſtifieth: whiche ſaith / if men knewe the indulge<g ref="char:cmbAbbrStroke">̄</g>ce of ſaynt Iohn<g ref="char:cmbAbbrStroke">̄</g> latrene<g ref="char:cmbAbbrStroke">̄</g>s churche: it were no nede to go to the holy Sepulcre / or to ſaynt Iames.</p>
+               <p>¶ Alſo i<g ref="char:cmbAbbrStroke">̄</g> the church of ſaynt Peter / whiche is euery day in the yere .xlviii. yeres<g ref="char:punc">▪</g> &amp; .xlviii. lentis of ꝑdon / &amp; remyſſio<g ref="char:cmbAbbrStroke">̄</g> of the thirde ꝑte of all ſynnes. Alſo from the feſte of the Annu<g ref="char:cmbAbbrStroke">̄</g>cyacio<g ref="char:cmbAbbrStroke">̄</g> of our lady vnto the firſt day of Auguſt beſyde the ſaide daily ꝑdons are euery day xii. yere &amp; as many lentis<g ref="char:punc">▪</g> &amp; remyſſion of the thirde parte of al ſynnes.</p>
+               <p>¶ Alſo in the churche of ſaynt Paule<g ref="char:punc">▪</g> whiche is euery day in the yere xlviii. yeres xlviii. lentis of pardon / &amp; remyſſio<g ref="char:cmbAbbrStroke">̄</g> of the third parte of al ſynnes. &amp; alſo euery ſonday who ſo euer veſite that ſame churche: ſhal haue as great pardon as though he went to the holy ſepulcre in Ie<g ref="char:EOLunhyphen"/>ruſalem / or to ſaynt Iames in Galys.</p>
+               <p>¶ Alſo i<g ref="char:cmbAbbrStroke">̄</g> the great church of our lady: which is euery day i<g ref="char:cmbAbbrStroke">̄</g> the yere .xlviii. yeres xlviii. le<g ref="char:cmbAbbrStroke">̄</g>tis of ꝑdon: &amp; remyſſio<g ref="char:cmbAbbrStroke">̄</g> of y<hi rend="sup">e</hi> .iii. ꝑte of all ſynnes.</p>
+               <p>¶ Alſo in the churche of ſaynt Laurence extra muros: where are euery day i<g ref="char:cmbAbbrStroke">̄</g> the yere xlviii. yeres .xlviii. lentis of ꝑdon / &amp; remyſſion of the thirde parte of al ſynnes<g ref="char:punc">▪</g> alſo who ſo euer ſhall veſyte the ſame churche eury wedneſday in one yere delyuereth a ſoule frome purgatorye.</p>
+               <p>¶ Alſo in the churche of ſaynt Fabyan / &amp; ſaynt Sebaſtyan: where are euery day xlviii. yeres xlviii. lentis of ꝑdon / &amp; remyſſion of the thir<g ref="char:EOLunhyphen"/>de parte of all his ſi<g ref="char:cmbAbbrStroke">̄</g>nes / &amp; alſo i<g ref="char:cmbAbbrStroke">̄</g> theſame churche in certeyn places is aſmoche ꝑdon &amp; Indulge<g ref="char:cmbAbbrStroke">̄</g>ce: as in thechurches of ſaynt Peter &amp; paule for theyr bodyes were hyd there longe tyme before they were founde / &amp; there ar many other inumerable pardons &amp; indulgens in the ſame church which can nat be nou<g ref="char:cmbAbbrStroke">̄</g>bred: for the<g ref="char:cmbAbbrStroke">̄</g> i<g ref="char:cmbAbbrStroke">̄</g>numerable bodyes of ſayntes that reſt there.</p>
+               <p>¶ Alſo in the churche of the holy Croſſe / where ar euery day xlviii. yeres .xlviii. lentis of pardon &amp; remyſſion of the third parte of al ſynnes. Alſo beſyde the forſayde dayly ꝑdons: are euery ſonday CCC. yeres &amp; CCC. lentis of indulge<g ref="char:cmbAbbrStroke">̄</g>ce &amp; remyſſion of the .iii. parte of al ſi<g ref="char:cmbAbbrStroke">̄</g>nes.</p>
+               <p>¶ Alſo in the churche of ſaynt Praxede is euery day in the yere xii. M. yeres &amp; xii. M. lentis of pardo<g ref="char:cmbAbbrStroke">̄</g> / &amp; remyſſion of the thirde parte of al ſinnes. Alſo in theſame churche is a chapel: that is called Libera nos a penis inferni<g ref="char:punc">▪</g> i<g ref="char:cmbAbbrStroke">̄</g> which chapel Pope paſchal ſayd v. maſſes for a ſou<g ref="char:EOLunhyphen"/>le: whiche was delyuered. &amp; the ſayd pope graunted that who ſo euer ſhulde do ſay v. maſſes ſhulde delyuer a ſoule frome purgatorye.</p>
+               <p>¶ Alſo in the churche that is called ſaint Peters pryſon<g ref="char:punc">▪</g> where are euery day CC. yeres of indulgence with remyſſio<g ref="char:cmbAbbrStroke">̄</g> of the thirde part of all ſynnes / whiche euery feſtful day in the yere are doubled.</p>
+               <p>¶ Alſo in the churches of our lady de pace / &amp; in the churche of our lady de <choice>
+                     <abbr>pplo</abbr>
+                     <expan>populo</expan>
+                  </choice>: in al &amp; euery feſte of our lady / &amp; euery ſaterday in lente: for eche of them ful remyſſion. And beſyde theſe principal churches there be dyuers places of ſtacyons within the ſayde cyte / &amp; alſo withoute where be great &amp; inumerable ꝑdons &amp; remyſſio<g ref="char:cmbAbbrStroke">̄</g>s grau<g ref="char:cmbAbbrStroke">̄</g>ted: whiche were very lo<g ref="char:cmbAbbrStroke">̄</g>ge to declare &amp; ꝓfitely exp<g ref="char:cmbAbbrStroke">̄</g>ſſe: whiche the ſaide bretheren &amp; ſyſters ſhall opteyn as well as if they were preſent in the Cite of Rome.</p>
+            </div>
+            <pb facs="tcp:174725:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
